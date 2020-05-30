@@ -1,0 +1,14 @@
+.navbar {
+    background: #ffd000;
+    font-size: x-large;
+    margin: auto;
+}
+
+ul.navbar-nav {
+    margin: auto;
+}
+
+aside picture img {
+    width: 120px;
+    height: 80px;
+}
